@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShopCustomer_Stable"
+        tools:targetApi="31">
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.payment_activity.PaymentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.shipping_address_activity.ShippingAddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.notification_activity.NotificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.product_activity.ProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.forgot_pass_activity.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.signup_activity.SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.login_activity.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.splash_activity.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui_layer.sheets.activity_viewmodel_ui.main_activity.MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
