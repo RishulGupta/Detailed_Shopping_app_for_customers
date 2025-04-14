@@ -40,8 +40,6 @@ A beautifully designed **Android Shopping App** with a clean, modern UI and seam
 
 ## 📱 UI Screenshots
 
-*Add screenshots of your app’s key screens here:*  
-`[Insert Images of Home, Product Details, Cart, Wishlist, Order Summary, Profile, etc.]`
 
 ---
 
