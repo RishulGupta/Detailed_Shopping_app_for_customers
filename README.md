@@ -17,8 +17,8 @@ A beautifully designed Android Shopping App with a clean and modern UI. This pro
 
 ## 🛠️ Built With
 
-- **Kotlin 
--  XML**
+- Kotlin 
+-  XML
 - **Firebase** (for Auth & Database, optional)
 - **Glide / Coil** for image loading
 - **Material Design 3**
