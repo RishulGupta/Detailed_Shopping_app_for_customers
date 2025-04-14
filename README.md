@@ -1,4 +1,4 @@
-🛍️ Shopping App Android
+## 🛍️ Shopping App Android
 
 A beautifully designed **Android Shopping App** with a clean, modern UI and seamless user experience. Built using **Android Studio**, this app follows the latest development practices and architecture patterns to deliver a scalable and maintainable codebase.
 
