@@ -73,8 +73,4 @@ A beautifully designed **Android Shopping App** with a clean, modern UI and seam
 
 ---
 
-## 📂 Project Structure
 
-ShoppingApp/ ├── app/ │   ├── src/ │   │   ├── main/ │   │   │   ├── java/com/example/shoppingapp/ │   │   │   │   ├── ui/              # All UI-related classes (Activities/Fragments) │   │   │   │   ├── data/            # Repositories, Firebase helpers │   │   │   │   ├── model/           # Data models │   │   │   │   ├── viewmodel/       # ViewModels │   │   │   ├── res/ │   │   │   │   ├── layout/          # XML layouts │   │   │   │   ├── drawable/        # Icons and images │   │   │   │   ├── values/          # Themes, colors, styles │   │   ├── AndroidManifest.xml ├── build.gradle ├── README.md
-
----
