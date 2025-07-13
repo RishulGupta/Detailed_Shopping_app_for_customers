@@ -3,7 +3,19 @@
 A beautifully designed **Android Shopping App** with a clean, modern UI and seamless user experience. Built using **Android Studio**, this app follows the latest development practices and architecture patterns to deliver a scalable and maintainable codebase.
 
 ---
-![imag alt](https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/046f03e341de33ef2fab6bd133f5039094c77f7b/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.30_3c9e2dd4.jpg)
+<p align="center">
+  <img src="https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/4d4055f3d877dc888bce753a64d43471c7d7ecf9/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.31_af5c1d37.jpg" width="200" height="400"/>
+  <img src="https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/4d4055f3d877dc888bce753a64d43471c7d7ecf9/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.31_dabe0069.jpg" width="200" height="400"/>
+   <img src="https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/046f03e341de33ef2fab6bd133f5039094c77f7b/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.30_3c9e2dd4.jpg" width="200" height="400"/>
+  
+  
+  <br/>
+ <img src="https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/4d4055f3d877dc888bce753a64d43471c7d7ecf9/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.31_a7be9a6c.jpg" width="200" height="400"/>
+  <img src="https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/4d4055f3d877dc888bce753a64d43471c7d7ecf9/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.32_800ca2cb.jpg" width="200" height="400"/>
+  <img src="https://github.com/RishulGupta/Detailed_Shopping_app_for_customers/blob/4d4055f3d877dc888bce753a64d43471c7d7ecf9/readmeimages/WhatsApp%20Image%202025-07-13%20at%2012.49.32_f256281e.jpg" width="200" height="400"/>
+</p>
+
+
 ## ✨ Features
 
 - 🔍 **Browse Products by Category**  
